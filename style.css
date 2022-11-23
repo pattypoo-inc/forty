@@ -1,7 +1,10 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(192, 125, 255);
 color: white;
 font-family: 'Roboto', sans-serif;
 }
 
 
+a{
+    color: rgb(149, 61, 61);
+}
